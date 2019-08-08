@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/png">
+        <file>a.jpg</file>
+        <file>bottonline.jpg</file>
+        <file>cry.jpg</file>
+        <file>download.jpg</file>
+        <file>file.jpeg</file>
+        <file>jiacu.jpg</file>
+        <file>rubbish_close.jpg</file>
+        <file>rubbish_open.jpg</file>
+        <file>talk.png</file>
+        <file>talk4.png</file>
+        <file>talkbox.jpg</file>
+        <file>xie.jpg</file>
+        <file>timg1.jpg</file>
+        <file>timg2.jpg</file>
+        <file>小13.jpg</file>
+        <file>小17.jpg</file>
+        <file>小18.jpg</file>
+        <file>小20.jpg</file>
+        <file>小21.jpg</file>
+        <file>小22.jpg</file>
+        <file>小23.jpg</file>
+        <file>小24.jpg</file>
+        <file>小25.jpg</file>
+        <file>小28.jpg</file>
+        <file>小29.jpg</file>
+        <file>小30.jpg</file>
+        <file>小31.jpg</file>
+        <file>小33.jpg</file>
+        <file>小34.jpg</file>
+        <file>小36.jpg</file>
+        <file>小38.jpg</file>
+        <file>小42.jpg</file>
+        <file>小57.jpg</file>
+        <file>小64.jpg</file>
+        <file>小清新 (6).jpg</file>
+        <file>小清新 (11).jpg</file>
+        <file>小清新 (20).jpg</file>
+        <file>小清新 (29).jpg</file>
+        <file>小清新 (41).jpg</file>
+        <file>小清新 (42).jpg</file>
+        <file>小清新 (44).jpg</file>
+        <file>小清新 (64).jpg</file>
+        <file>小清新 (68).jpg</file>
+    </qresource>
+</RCC>
